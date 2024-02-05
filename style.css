@@ -1,6 +1,11 @@
 .aa{
     text-align: center;
+    background-color: blue ;
 }
 .qq{
     text-align: center;
+    text-shadow: 1px 1px  red ;
+}
+div p{
+    background-color: aqua;
 }
